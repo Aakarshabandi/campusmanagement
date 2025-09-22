@@ -69,3 +69,20 @@ docker compose logs -f
 docker-compose ps //chek
 docker-compose down //stop
 
+
+
+
+####index.jsp
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World JSP</title>
+</head>
+<body>
+    <h1>Hello, World! This is my first JSP page 🎉</h1>
+    <p>Welcome to JSP running on Tomcat.</p>
+</body>
+</html>
+
